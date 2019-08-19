@@ -1,0 +1,13 @@
+[
+  {
+    "desc": "MonoTasking",
+    "name": "MonoTasking",
+    "type": "Module"
+  },
+  {
+    "desc": "init monototasking menubar",
+    "module": "MonoTasking",
+    "name": "init",
+    "type": "Method"
+  }
+]

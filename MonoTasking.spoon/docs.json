@@ -1,0 +1,39 @@
+[
+  {
+    "Command": [],
+    "Constant": [],
+    "Constructor": [],
+    "Deprecated": [],
+    "Field": [],
+    "Function": [],
+    "Method": [
+      {
+        "def": "MonoTasking:init()",
+        "desc": "init monototasking menubar",
+        "doc": "init monototasking menubar",
+        "name": "init",
+        "signature": "MonoTasking:init()",
+        "stripped_doc": "",
+        "type": "Method"
+      }
+    ],
+    "Variable": [],
+    "desc": "MonoTasking",
+    "doc": "MonoTasking",
+    "items": [
+      {
+        "def": "MonoTasking:init()",
+        "desc": "init monototasking menubar",
+        "doc": "init monototasking menubar",
+        "name": "init",
+        "signature": "MonoTasking:init()",
+        "stripped_doc": "",
+        "type": "Method"
+      }
+    ],
+    "name": "MonoTasking",
+    "stripped_doc": "",
+    "submodules": [],
+    "type": "Module"
+  }
+]
