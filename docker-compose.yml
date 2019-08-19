@@ -6,3 +6,5 @@ services:
       dockerfile: dockerfile
     volumes:
       - ./:/app
+    working_dir: /app
+    command: python /root/hammerspoon/scripts/docs/bin/build_docs.py -e /root/hammerspoon/scripts/docs/templates/ -o ./MonoTasking.spoon -jtm -n ./MonoTasking.spoon

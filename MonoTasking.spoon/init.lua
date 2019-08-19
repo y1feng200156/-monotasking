@@ -5,7 +5,7 @@ local MonoTasking = {}
 
 -- Metadata
 MonoTasking.name = 'MonoTasking'
-MonoTasking.version = '1.0.0'
+MonoTasking.version = '1.0.1'
 MonoTasking.author = 'Charles(hi@charles-t.com)'
 MonoTasking.homepage = 'https://github.com/y1feng200156/MonoTasking'
 MonoTasking.license = "MIT - https://opensource.org/licenses/MIT"
@@ -76,7 +76,7 @@ end
 
 --- MonoTasking:init()
 --- Method
---- init monototasking menubar
+--- init MonotoTasking menubar
 function MonoTasking:init()
     menus = {
         {title = '开始工作', fn = updateTimer}
