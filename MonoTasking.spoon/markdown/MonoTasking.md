@@ -15,5 +15,5 @@ MonoTasking
 | --------------------------------------------|-------------------------------------------------------------------------------------|
 | **Signature**                               | `MonoTasking:init()`                                                                    |
 | **Type**                                    | Method                                                                     |
-| **Description**                             | init monototasking menubar                                                                     |
+| **Description**                             | init MonotoTasking menubar                                                                     |
 

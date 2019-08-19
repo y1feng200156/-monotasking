@@ -9,8 +9,8 @@
     "Method": [
       {
         "def": "MonoTasking:init()",
-        "desc": "init monototasking menubar",
-        "doc": "init monototasking menubar",
+        "desc": "init MonotoTasking menubar",
+        "doc": "init MonotoTasking menubar",
         "name": "init",
         "signature": "MonoTasking:init()",
         "stripped_doc": "",
@@ -23,8 +23,8 @@
     "items": [
       {
         "def": "MonoTasking:init()",
-        "desc": "init monototasking menubar",
-        "doc": "init monototasking menubar",
+        "desc": "init MonotoTasking menubar",
+        "doc": "init MonotoTasking menubar",
         "name": "init",
         "signature": "MonoTasking:init()",
         "stripped_doc": "",

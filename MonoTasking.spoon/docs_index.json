@@ -5,7 +5,7 @@
     "type": "Module"
   },
   {
-    "desc": "init monototasking menubar",
+    "desc": "init MonotoTasking menubar",
     "module": "MonoTasking",
     "name": "init",
     "type": "Method"
