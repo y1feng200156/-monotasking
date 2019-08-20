@@ -20,7 +20,7 @@ local work
 local timer
 
 local function timerEnd()
-    work.stop()
+    work:stop()
     timer:stop()
     menubar:setTitle(defaultTitle)
     menubar:setMenu(menus)
