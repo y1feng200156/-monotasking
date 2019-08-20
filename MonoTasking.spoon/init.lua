@@ -5,7 +5,7 @@ local MonoTasking = {}
 
 -- Metadata
 MonoTasking.name = 'MonoTasking'
-MonoTasking.version = '1.0.1'
+MonoTasking.version = '1.0.2'
 MonoTasking.author = 'Charles(hi@charles-t.com)'
 MonoTasking.homepage = 'https://github.com/y1feng200156/MonoTasking'
 MonoTasking.license = "MIT - https://opensource.org/licenses/MIT"
@@ -20,7 +20,7 @@ local work
 local timer
 
 local function timerEnd()
-    work.stop()
+    work:stop()
     timer:stop()
     menubar:setTitle(defaultTitle)
     menubar:setMenu(menus)
